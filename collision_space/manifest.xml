@@ -11,7 +11,6 @@
   <depend package="planning_models"/>
   <depend package="geometric_shapes"/>
   <depend package="tf_conversions"/>
-  <depend package="opende"/>
   <rosdep name="opende"/>
   <rosdep name="bullet"/>
   <rosdep name="pkg-config" />
