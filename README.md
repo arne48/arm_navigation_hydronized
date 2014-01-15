@@ -29,9 +29,10 @@ So i dont't give any kind of guarantee of completeness or accuracy.
 
 Dependencies
 ------------------
-* arm_navigation_experimental
+* arm_navigation_experimental (from groovy repository)
 * libode1
 * libode-dev
 * ros-hydro-cmake-modules
 * mongodb-dev
 * libmongo-client-dev
+* ros-hydro-ompl
